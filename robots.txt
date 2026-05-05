@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-9slgji.grain.beer/sitemap.xml
